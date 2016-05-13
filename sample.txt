@@ -1,4 +1,8 @@
 サルでもわかるGitコマンド
 情報セキュリティマネジメン
+<<<<<<< HEAD
 $ git commit -m "addの説明を追加"
 
+=======
+commit -m "pullの説明を追加"
+>>>>>>> 871d2ec0cb615200a646f92b2df7b94eaa822c2a
